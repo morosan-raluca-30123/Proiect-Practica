@@ -1,2 +1,0 @@
-# Proiect-Practica
-Aplicatie Web
